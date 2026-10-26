@@ -1,5 +1,3 @@
-A full screen can catch a chat or a password. Record one window first. Do not record a meeting you were told not to record, and delete a take that shows a notification you forgot.
-
 # Captura - Record Your Own Screen
 
 Captura records the screen of this PC and, if you turn it on, the microphone in front of you. The result is a video file of what you chose to capture. Record a window you are allowed to show. If another person is in the meeting, follow the rule you were given about recording. Captura does not reach a computer you are not sitting at.
